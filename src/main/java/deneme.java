@@ -7,5 +7,6 @@ public class deneme {
         System.out.println("emre");
         System.out.println("emre");
         System.out.println("emre");
+        System.out.println("mentessss");
     }
 }
